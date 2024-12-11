@@ -1,1 +1,1 @@
-# dashboard
+# Project Euler Dashboard
