@@ -7,7 +7,6 @@ p.remove(2)
 p.remove(3)
 
 ans = 0
-print(len(p))
 for i in range(len(p)-1):
     p1 = p[i]
     if p1 > 10**6:
